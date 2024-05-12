@@ -47,7 +47,9 @@ print(X)
 ```
 
 ## Output:
-![lu decomposition]()
+![image](https://github.com/shivaa-palaniyappan/LU-Decomposition/assets/146915611/92377e5c-5919-409e-90fd-def95c19020a)
+
+![image](https://github.com/shivaa-palaniyappan/LU-Decomposition/assets/146915611/ee1173ef-6153-4522-82e5-ebd0d7342a5a)
 
 
 ## Result:
